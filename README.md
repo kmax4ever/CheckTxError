@@ -1,3 +1,4 @@
 # CheckErrorByTx
+update params in file dev.env (chainId,rpc,txhash)
 
-run ````yarn star```` or ````yarn start2```` to check error
+run ````yarn start```` or ````yarn start2```` to check error
